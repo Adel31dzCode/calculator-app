@@ -313,7 +313,7 @@ button:active {
     border-radius: 0;
 }
 .number, #mines {
-    padding: 6px 19px;
+    padding: 6px 20px;
     margin: 5px;
     font-size: 22px;
 }
